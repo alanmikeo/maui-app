@@ -51,6 +51,7 @@
 	<ItemGroup>
 		<PackageReference Include="AlohaKit" Version="1.0.74" />
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="7.0.0" />
+		<PackageReference Include="UraniumUI.Icons.MaterialIcons" Version="2.2.3" />
 		<PackageReference Include="UraniumUI.Material" Version="2.2.3" />
 	</ItemGroup>
 
