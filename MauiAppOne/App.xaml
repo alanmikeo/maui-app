@@ -5,6 +5,7 @@
              xmlns:material="clr-namespace:UraniumUI.Material.Resources;assembly=UraniumUI.Material"
              xmlns:m="clr-namespace:UraniumUI.Icons.MaterialIcons;assembly=UraniumUI.Icons.MaterialIcons"
              x:Class="MauiAppOne.App">
+    
     <Application.Resources>
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>

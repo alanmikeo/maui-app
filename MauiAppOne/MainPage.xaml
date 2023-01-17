@@ -4,7 +4,7 @@
              xmlns:m="clr-namespace:UraniumUI.Icons.MaterialIcons;assembly=UraniumUI.Icons.MaterialIcons"
              x:Class="MauiAppOne.MainPage">
     <ScrollView>
-        <HorizontalStackLayout Spacing="50" Padding="30,0" VerticalOptions="Center" HorizontalOptions="Center">
+        <HorizontalStackLayout Spacing="20" Padding="30,0" VerticalOptions="Center" HorizontalOptions="Center">
 
             <Label Text="Hello"/>
             <Label Text="World!"/>
